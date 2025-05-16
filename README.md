@@ -9,7 +9,7 @@ Ce projet a pour objectif de simplifier et d’accélérer la génération des *
 - 📈 Gagner du temps lors de l'étape de commande travaux
 - ✅ Réduire les erreurs humaines
 - 🧾 Produire un fichier Excel clair, normé et directement exploitable
-- 🔁 Automatiser les tâches répétitives (formules, pré-remplissage, etc.)
+- 🔁 Automatiser les tâches répétitives
 
 ---
 
